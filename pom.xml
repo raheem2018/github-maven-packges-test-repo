@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>test-snapshots</artifactId>
+    <artifactId>example-snapshots</artifactId>
     <version>${global.project.version}</version>
     <packaging>jar</packaging>
-    <name>test snapshots</name>
+    <name>example snapshots</name>
     <description>Parent JAR of test project</description>
 
     <properties>
         <!-- Global Project Version -->
-        <global.project.version>1.3-SNAPSHOT</global.project.version>
+        <global.project.version>1.3.3-SNAPSHOT</global.project.version>
 
         <!-- Ensures Java 1.8 -->
         <maven.compiler.source>8</maven.compiler.source>

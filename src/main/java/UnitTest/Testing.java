@@ -1,4 +1,4 @@
-package unitTesting;
+package UnitTest;
 
 /**
  * @author Raheem-PC
@@ -12,7 +12,7 @@ public class Testing {
     }
 
     public void someFunc(){
-        System.out.println("unitTesting.Testing.someFunc");
+        System.out.println("UnitTest.Testing.someFunc");
     }
 }
 
