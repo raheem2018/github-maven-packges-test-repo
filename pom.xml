@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test</groupId>
-    <artifactId>test-snapshot</artifactId>
+    <artifactId>test-snapshots</artifactId>
     <version>${global.project.version}</version>
     <packaging>jar</packaging>
-    <name>test parent</name>
-    <description>Parent POM of test project</description>
+    <name>test snapshots</name>
+    <description>Parent JAR of test project</description>
 
     <properties>
         <!-- Global Project Version -->
