@@ -7,7 +7,7 @@
     <groupId>com.test</groupId>
     <artifactId>test-snapshots</artifactId>
     <version>${global.project.version}</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>test snapshots</name>
     <description>Parent JAR of test project</description>
 
